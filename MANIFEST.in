@@ -1,0 +1,3 @@
+include README.rst
+include LICENSE.mdinclude versioneer.py
+include cat-cam/_version.py
